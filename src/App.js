@@ -8,7 +8,7 @@ import Sorteio from "./components/Sorteio";
 function App() {
     return (
         <div className="App">
-            <h1>Exercício React-Redux</h1>
+            <h1>Exercício</h1>
             <div className="linha">
                 <Intervalo red />
             </div>
